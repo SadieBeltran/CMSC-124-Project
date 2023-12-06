@@ -1,5 +1,12 @@
+# Group Name - ERL
+Members:
+- Elysse Samantha T. Beltran (Lead)
+- Aldrine Drebb Cristobal
+- Lawrence Quinones
 
 # TO-DO
+  **[Google sheets task tracker](https://docs.google.com/spreadsheets/d/1GRKTS3OtOthObzVezH7hfzfZaVjWrcyvOWxXkNz77BE/edit?usp=sharing)**
+  
    **[Project Specs](https://classroom.google.com/c/NjE5NzM5ODA3MzY3/p/NjM3NDcxMDQwMTE3/details)**
 1. Lexical Analyzer - Breaks down a program file into tokens, separating comments and whitespaces.
    **[Lexemes](https://docs.google.com/document/d/1WMG3ybYsAUXqvCtDHWNipT4i9G0zoB1TIA62uGWgPmY/edit?usp=sharing)**
